@@ -29,6 +29,6 @@ http://162.55.220.72:5005/user_info_3
 ![EP_2(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(1).png)
 ![EP_2(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(2).png)
 ![EP_2(3)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(3).png)
-![EP_2(4)]()
+![EP_2(4)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(4).png)
 
 
