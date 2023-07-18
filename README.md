@@ -31,4 +31,24 @@ http://162.55.220.72:5005/user_info_3
 ![EP_2(3)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(3).png)
 ![EP_2(4)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(4).png)
 
+### EP_3 (/object_info_3)
+
+```
+http://162.55.220.72:5005/object_info_3
+1. Отправить запрос.
+2. Статус код 200
+3. Спарсить response body в json.
+4. Спарсить request.
+5. Проверить, что name в ответе равно name s request (name забрать из request.)
+6. Проверить, что age в ответе равно age s request (age забрать из request.)
+7. Проверить, что salary в ответе равно salary s request (salary забрать из request.)
+8. Вывести в консоль параметр family из response.
+9. Проверить, что у параметра dog есть параметры name.
+10. Проверить, что у параметра dog есть параметры age.
+11. Проверить, что параметр name имеет значение Luky.
+12. Проверить, что параметр age имеет значение 4.
+```
+
+
+
 
