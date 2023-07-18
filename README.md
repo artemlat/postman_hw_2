@@ -27,6 +27,7 @@ http://162.55.220.72:5005/user_info_3
 12. Проверить что u_salary_1_5_year в ответе равно salary*4 (salary забрать из request)
 ```
 ![EP_2(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(1).png)
-![EP_2(2)]()
+![EP_2(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_2(2).png)
+![EP_2(3)]()
 
 
