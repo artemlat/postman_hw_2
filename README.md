@@ -118,5 +118,5 @@ http://162.55.220.72:5005/user_info_2
 21. Проверить, что параметр u_salary_5_years равен salary*4.2 из request (salary забрать из request.)
 22. ***Написать цикл который выведет в консоль по порядку элементы списка из параметра person.
 ```
-
+![EP_5(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_5(1).png)
 
