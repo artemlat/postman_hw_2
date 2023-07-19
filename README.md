@@ -85,4 +85,4 @@ http://162.55.220.72:5005/object_info_4
 21. Написать цикл который выведет в консоль по порядку элементы списка из параметра salary.
 ```
 ![EP_4(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(1).png)
-![EP_4(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(2).png)
+![EP_4(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(22).png)
