@@ -86,3 +86,4 @@ http://162.55.220.72:5005/object_info_4
 ```
 ![EP_4(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(1).png)
 ![EP_4(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(22).png)
+![EP_4(3)](https://github.com/artemlat/postman_hw_2/blob/main/EP_4(3).png)
