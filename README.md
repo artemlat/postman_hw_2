@@ -51,6 +51,6 @@ http://162.55.220.72:5005/object_info_3
 ```
 
 ![EP_3(1)](https://github.com/artemlat/postman_hw_2/blob/main/EP_3(1).png)
-
+![EP_3(2)](https://github.com/artemlat/postman_hw_2/blob/main/EP_3(2).png)
 
 
