@@ -125,4 +125,4 @@ http://162.55.220.72:5005/user_info_2
 ![EP_5(5)](https://github.com/artemlat/postman_hw_2/blob/main/EP_5(5).png)
 ![EP_5(6)](https://github.com/artemlat/postman_hw_2/blob/main/EP_5(6).png)
 ![EP_5(7)](https://github.com/artemlat/postman_hw_2/blob/main/EP_5(7).png)
-![EP_5(8)]()
+![EP_5(8)](https://github.com/artemlat/postman_hw_2/blob/main/EP_5(8).png)
